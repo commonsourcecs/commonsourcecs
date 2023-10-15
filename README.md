@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 ![User's GitHub activity stats](https://github-readme-stats.vercel.app/api?username=commonsourcecs&show_icons=true&include_all_commits=true&theme=panda)
 
+<!-- doesnt include forks, looks like only css atm
 ![User's GitHub langs stats](https://github-readme-stats.vercel.app/api/top-langs/?username=commonsourcecs&theme=panda)
+-->
