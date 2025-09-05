@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![User's GitHub activity stats]([https://github-readme-stats.vercel.app/api?username=commonsourcecs&show_icons=true&include_all_commits=true&theme=panda](https://github-readme-stats.vercel.app/api?username=commonsourcecs&show_icons=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&theme=panda&bg_color=00000000))
+![User's GitHub activity stats](https://github-readme-stats.vercel.app/api?username=commonsourcecs&show_icons=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&theme=panda&bg_color=00000000)
 
 <!-- doesnt include forks, looks like only css atm
 ![User's GitHub langs stats](https://github-readme-stats.vercel.app/api/top-langs/?username=commonsourcecs&theme=panda)
